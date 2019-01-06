@@ -50,9 +50,9 @@ Your grade is based on how you do on programming assignments, participation, and
 |:--------------------------------|-----:|
 | Participation                   |  10% |
 | Quizzes                         |  10% |
-| Programming Assignments & Labs  |  30% |
-| Mid-term Examination            |  20% |
-| Final Examination               |  30% |
+| Classroom Assignments           |  10% |
+| Homework Assignments            |  20% |
+| Examinations                    |  50% |
 |**Total**                        | **100%** | 
 
 #### Notes:
