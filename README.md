@@ -1,14 +1,12 @@
-# Syllabus - Spring 2019 CS V19 Computer Architecture and Organization
-
-[Wiki](https://github.com/vc-csv19-spring2019/Course-Information/wiki)
+# Syllabus - Spring 2020 CS V19 Computer Architecture and Organization
 
 ### Instructor:
 
 [Allan Knight](https://www.linkedin.com/in/allanknight)  
 Email: [aknight@vcccd.edu](mailto:aknight@vcccd.edu)  
-Phone: (805) 289-6481 (maybe)  
+Phone: (805) 289-6489  
 Office: #SCI-356  
-Office Hours: TR 10:00 AM - 11:50AM
+Office Hours: MW 11:30 AM - 1:00PM & TR 9:30 AM - 12:30PM
 
 ### Description:  
 
@@ -24,14 +22,41 @@ Introduction to Computer Organization: ARM Assembly Language using Raspberry Pi,
 
 ### Student Learning Outcomes:
 
-Coming Soon!
+**CSLO1** - Manipulate data at the bit and byte levels.
+
+**CSLO2** - Identify the components of a computer and explain the organization of these components.
+
+**CSLO3** - Describe the disk storage systems and file systems.
+
+**CSLO4** - Use 80x86 assembly language syntax including mneumonics, registers, different types, and addressing modes instructions to write short programs.
+
+**CSLO5** - Describe data representation including number systems, signed and unsigned integers, and IEEE floating point representation of data.
+
+### Mid-Term Exam
+
+The mid-term exam will be held in the usual class room, SCI-226, from 8:00AM to 9:50AM on Monday, March 2, 2020.
+
+### Final Exam
+
+The final exam will be held in the usual class room, SCI-226, from 8:00AM to 10:00AM on Monday, May 11, 2020.
+
+Remember, the following Wednesday, May 13, 2020, there is no class or lecture.
+
+### Examination Materials
+
+For all exams, both the mid-term and final, you will need to bring:
+
+1. A writing utensil (No. 2 Pencil) 
+1. An 8.5" X 11" sheet of paper with your notes (you can put notes on both sides), 
+1. A Scantron 882-E form and that's it. 
+
+There will be no need for a calculator. As a matter of fact, if you think you  need a calculator, you're probably doing 
+something wrong.
 
 ### Grading:
 
-Grades for the current semester are available on Canvas. At the end of the semester, the total number of points awarded is added up and grades are given on the basis of the percentage of that total. The grade basis is:
-
-#### Grade
-Minimum Percentage
+Grades for the current semester are available on Canvas. At the end of the semester, the total number of points awarded is added up and 
+grades are given on the basis of the percentage of that total. Remember that Canvas may inflate your grade if you do not select 'Treat all ungraded assignments as 0'. The grade basis is:
 
 | Grade|     | Percent |
 |-----:|:---:|--------:|
@@ -40,7 +65,6 @@ Minimum Percentage
 | C    |  ≥  |     68% |
 | D    |  ≥  |     58% |
 | F    |  <  |     58% |
-
 
 #### Grade Breakdown
 
