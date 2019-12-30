@@ -32,9 +32,10 @@ Introduction to Computer Organization: ARM Assembly Language using Raspberry Pi,
 
 **CSLO5** - Describe data representation including number systems, signed and unsigned integers, and IEEE floating point representation of data.
 
-### Mid-Term Exam
+### Examinations
 
-The mid-term exam will be held in the usual class room, SCI-226, from 8:00AM to 9:50AM on Monday, March 2, 2020.
+Two pre-final examinations will be held.  The first exam will be held in the usual class room, SCI-226, from 8:00AM to 9:50AM on Wednesday, 
+February 5, 2020. The second exam will be held in the usual class room, SCI-226, from 8:00AM to 9:50AM on Wednesday, March 25, 2020.
 
 ### Final Exam
 
@@ -74,9 +75,9 @@ Your grade is based on how you do on programming assignments, participation, and
 |:--------------------------------|-----:|
 | Participation                   |  10% |
 | Quizzes                         |  10% |
-| Classroom Assignments           |  10% |
-| Homework Assignments            |  20% |
-| Examinations                    |  50% |
+| Homework Assignments            |  25% |
+| Examinations                    |  25% |
+| Final Examination               |  30% |
 |**Total**                        | **100%** | 
 
 #### Notes:
