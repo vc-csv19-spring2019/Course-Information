@@ -35,7 +35,7 @@ Introduction to Computer Organization: ARM Assembly Language using Raspberry Pi,
 ### Examinations
 
 Two pre-final examinations will be held.  The first exam will be held in the usual class room, SCI-226, from 8:00AM to 9:50AM on Wednesday, 
-February 5, 2020. The second exam will be held in the usual class room, SCI-226, from 8:00AM to 9:50AM on Wednesday, March 25, 2020.
+February 12, 2020. The second exam will be held in the usual class room, SCI-226, from 8:00AM to 9:50AM on Wednesday, March 25, 2020.
 
 ### Final Exam
 
